@@ -1,2 +1,26 @@
 # about-me
 Par rapport à mon sujet de l'infographie. de 4po 
+
+À propos de moi
+
+Infographiste en freelance depuis 5 ans, véritable passionné de design et de créations graphiques. Je me suis spécialisé dans les infographies pour réseaux sociaux et travaille principalement avec la suite d’Adobe Creative Cloud. J’ai réalisé plus de 500 maquettes pour alimenter les réseaux de dizaines de clients au quotidien.
+
+ 
+
+Expérience professionnelle
+
+ 
+
+Janvier 2015 - Maintenant
+
+Graphiste indépendant
+
+Tâches principales :
+
+Créer les infographies pour illustrer les publications Facebook, Twitter, Instagram et Linkedin de mes clients.
+Inventer ou optimiser le style graphique pour l’image de marque.
+Préparer des versions complètes d’infographies pour des blogs et articles à fort potentiel de partage.
+Résultats majeurs :
+
+Triplement du taux d’engagement par publication de mes clients en moyenne.
+Infographies à l’origine de plusieurs centaines de partages, augmentant l’autorité des sites en question.
