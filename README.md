@@ -36,3 +36,5 @@ Ancien Employer chez le centre de Communication de TheCodingMachine.
 Formations a mon actif d'Intégrateur Web / Designer Grapshite et Formation dans la Gestion.
 - CAP Signalétique et décors graphiques.
 - BMA Arts graphiques option A signalétique.
+
+//Inscrit à ONISEP , Pôle Emploi et a la Mission Locale de Lyon.//
