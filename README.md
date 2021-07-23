@@ -43,3 +43,9 @@ Formations a mon actif d'Intégrateur Web / Designer Grapshite et Formation dans
 # Actuellement en attente.
 
 //Inscrit à ONISEP , Pôle Emploi et a la Mission Locale de Lyon.//
+
+
+<p align="center">
+         <a href="https://discord.gg/apo">
+         <img src="https://media.discordapp.net/attachments/852648908802490439/852722398431281172/apolad.png?width=1440&height=288">
+         </a>
