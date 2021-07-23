@@ -54,3 +54,5 @@ Formations a mon actif d'Intégrateur Web / Designer Grapshite et Formation dans
          <a href="https://discord.gg/apo">
          <img src="https://media.discordapp.net/attachments/852648908802490439/852722398431281172/apolad.png?width=1440&height=288">
          </a>
+
+<p align="center"><img src="https://i.imgur.com/LAajnm0.gif" width="2000"> 
