@@ -8,7 +8,7 @@ Infographiste en freelance depuis 5 ans, véritable passionné de design et de c
 - 🔎 Contact Linkedin [@Leonhart Bukovski](https://fr.linkedin.com/in/4po)
 - 🔎 Contact Instagram [@Leonhart Bukovski](https://www.instagram.com/direct/t/340282366841710300949128281580150573502)
 
-- - Expérience professionnelle - -
+- - - Expérience professionnelle 
 
 Janvier 2015 - Maintenant
 
