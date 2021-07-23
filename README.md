@@ -4,10 +4,12 @@ Par rapport à mon sujet de l'infographie. de 4po
 À propos de moi
 
 Infographiste en freelance depuis 5 ans, véritable passionné de design et de créations graphiques. Je me suis spécialisé dans les infographies pour réseaux sociaux et travaille principalement avec la suite d’Adobe Creative Cloud. J’ai réalisé plus de 500 maquettes pour alimenter les réseaux de dizaines de clients au quotidien.
-
+</p>
 🔎 Contact Linkedin [@Leonhart Bukovski](https://fr.linkedin.com/in/4po)
+</p>
+<p align="center">
 🔎 Contact Instagram [@Leonhart Bukovski](https://www.instagram.com/direct/t/340282366841710300949128281580150573502)
-
+</p>
 
 Expérience professionnelle
 
