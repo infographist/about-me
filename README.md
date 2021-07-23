@@ -24,3 +24,13 @@ Résultats majeurs :
 
 Triplement du taux d’engagement par publication de mes clients en moyenne.
 Infographies à l’origine de plusieurs centaines de partages, augmentant l’autorité des sites en question.
+
+Ancien stagiaire chez : 
+- Octobo
+- L'Agence des Graphistes de Lyon.
+- Groupe Mazal France.
+- Ad'Graphic.
+
+Ancien Employer chez le centre de Communication de TheCodingMachine.
+
+Formations a mon actif d'Intégrateur Web / Designer Grapshite et Formation dans la Gestion.
