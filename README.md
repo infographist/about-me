@@ -28,6 +28,7 @@ Triplement du taux d’engagement par publication de mes clients en moyenne.
 Infographies à l’origine de plusieurs centaines de partages, augmentant l’autorité des sites en question.
 
 Ancien stagiaire chez : 
+
 - Octobo
 - L'Agence des Graphistes de Lyon.
 - Groupe Mazal France.
@@ -35,8 +36,13 @@ Ancien stagiaire chez :
 
 Ancien Employer chez le centre de Communication de TheCodingMachine.
 
+Parcours Scolaire :
+
 Formations a mon actif d'Intégrateur Web / Designer Grapshite et Formation dans la Gestion.
 - CAP Signalétique et décors graphiques.
 - BMA Arts graphiques option A signalétique.
+- 1 Année chez Epitech Lyon.
+
+Actuellement en attente.
 
 //Inscrit à ONISEP , Pôle Emploi et a la Mission Locale de Lyon.//
