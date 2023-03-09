@@ -36,7 +36,7 @@ Infographies à l’origine de plusieurs centaines de partages, augmentant l’a
 - Groupe Mazal France.
 - Ad'Graphic.
 
-Ancien Employer chez le centre de Communication de TheCodingMachine.
+Ancien Employer chez le centre de Communication de TheCodingMachine. (Développeur Web)
 
 # Parcours Scolaire :
 
